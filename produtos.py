@@ -63,7 +63,7 @@ def removerProduto():
 
 #Começo MAIN Produto
 
-print('Bem vindo ao programa de produtos de Pedro Lucas de Souza Machado | RU:4059497')
+print('Bem vindo ao programa de produtos')
 
 registroProduto = 0
 while True:
