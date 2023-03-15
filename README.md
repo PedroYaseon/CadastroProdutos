@@ -1,5 +1,5 @@
 # CadastroProdutos
-Cadastro de produtos em mercados.
+Cadastro de produtos utilizando Python.
 
 # Como usar
 
